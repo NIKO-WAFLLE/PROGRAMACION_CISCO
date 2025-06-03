@@ -1,1 +1,2 @@
-print("hola")
+hi = 5
+print("hola", hi)
